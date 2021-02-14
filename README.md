@@ -26,3 +26,15 @@ A Runtime Engine and Platform for managing deployment and execution of applicati
           <li> Finally, workers submit output to master, and master combine this output and pass back to application and display it to user.
             <li> Overall process occurs on cloud itself, so no extra storage is required.
               </ul>
+<h2> Snapshots of Project </h2>
+<ul>
+  <li> Dashboard :<br>
+  <img src = "https://github.com/priyanshu-lanjewar/propertyOfFile/blob/main/screenshot/dashb.png"></img><br>
+  <li> Processing : <br>
+  <img src = "https://github.com/priyanshu-lanjewar/propertyOfFile/blob/main/screenshot/proces.png"></img><br>
+  <li> Output : <br>
+  <img src = "https://github.com/priyanshu-lanjewar/propertyOfFile/blob/main/screenshot/op.png"></img>
+  <br> Along with Space, new Line characters are also ommited in without space section.<br>
+  <li> Comparing with Microsoft Word Stats : <br>
+  <img src = "https://github.com/priyanshu-lanjewar/propertyOfFile/blob/main/screenshot/word stat from ms word.png"></img>
+  </ul>
