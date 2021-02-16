@@ -8,7 +8,7 @@
   <LogMessages value="true"/>
   <SchedulerUri value="tcp://localhost:9091/Aneka"/>
   <UserCredential type="Aneka.Security.UserCredentials" assembly="Aneka">
-    <Instance username="priyanshu" password="toor"/>
+    <Instance username="" password=""/>
   </UserCredential>
 </Aneka>
 
